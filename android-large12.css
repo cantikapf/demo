@@ -1,0 +1,65 @@
+.android-large12-container {
+  min-height: 100vh;
+}
+.android-large12-android-large12 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.android-large12-text {
+  top: 231px;
+  left: 23px;
+  color: rgba(255, 255, 255, 1);
+  width: 294px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.android-large12-text2 {
+  top: 581px;
+  left: 2px;
+  color: rgba(255, 255, 255, 1);
+  width: 336px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .android-large12-text {
+    top: 193px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .android-large12-text2 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+}

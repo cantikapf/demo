@@ -1,0 +1,124 @@
+.android-large4-container {
+  min-height: 100vh;
+}
+.android-large4-android-large4 {
+  width: 100%;
+  height: 800px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  background-color: rgba(0, 0, 0, 1);
+}
+.android-large4-text {
+  top: 165px;
+  left: 44px;
+  color: rgba(255, 255, 255, 1);
+  width: 272px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  align-self: auto;
+  font-style: Extra Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.android-large4-navlink {
+  display: contents;
+}
+.android-large4-rectangle30 {
+  top: 446px;
+  left: 54px;
+  width: 107px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 28px;
+  text-decoration: none;
+}
+.android-large4-text4 {
+  top: 460px;
+  left: 88px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.android-large4-navlink1 {
+  display: contents;
+}
+.android-large4-rectangle31 {
+  top: 446px;
+  left: 198px;
+  width: 107px;
+  height: 50px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 28px;
+  text-decoration: none;
+}
+.android-large4-text6 {
+  top: 460px;
+  left: 236px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  align-self: auto;
+  font-style: Black;
+  text-align: left;
+  font-family: Merriweather;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+@media(max-width: 479px) {
+  .android-large4-text {
+    top: 225px;
+    left: 87px;
+    color: rgb(255, 255, 255);
+    margin: auto;
+    font-size: 50px;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .android-large4-rectangle30 {
+    top: 493px;
+    left: 105px;
+  }
+  .android-large4-text4 {
+    top: 507px;
+    left: 139px;
+  }
+  .android-large4-rectangle31 {
+    top: 493px;
+    left: 249px;
+  }
+  .android-large4-text6 {
+    top: 507px;
+    left: 287px;
+  }
+}
