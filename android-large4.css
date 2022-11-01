@@ -95,8 +95,8 @@
 }
 @media(max-width: 479px) {
   .android-large4-text {
-    top: 225px;
-    left: 87px;
+    top: 200px;
+    left: 50px;
     color: rgb(255, 255, 255);
     margin: auto;
     font-size: 50px;
@@ -107,18 +107,18 @@
   }
   .android-large4-rectangle30 {
     top: 493px;
-    left: 105px;
+    left: 60px;
   }
   .android-large4-text4 {
     top: 507px;
-    left: 139px;
+    left: 97px;
   }
   .android-large4-rectangle31 {
     top: 493px;
-    left: 249px;
+    left: 200px;
   }
   .android-large4-text6 {
     top: 507px;
-    left: 287px;
+    left: 240px;
   }
 }

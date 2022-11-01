@@ -112,15 +112,15 @@
 @media(max-width: 479px) {
   .android-large2-rectangle19 {
     top: -63px;
-    left: -4px;
-    width: 471px;
+    left: 0px;
+    width: 360px;
     height: 454px;
     margin-right: 4px;
     padding-right: 0px;
   }
   .android-large2-image1 {
     top: 64px;
-    left: 87px;
+    left: 46px;
     width: 273px;
     height: 258px;
   }

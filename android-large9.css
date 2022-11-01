@@ -45,7 +45,7 @@
 @media(max-width: 479px) {
   .android-large9-text {
     top: 255px;
-    left: 89px;
+    left: 45px;
     color: rgb(255, 255, 255);
     height: var(--dl-size-size-small);
     margin: auto;
