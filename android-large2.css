@@ -3,7 +3,7 @@
 }
 .android-large2-android-large2 {
   width: 100%;
-  height: 805px;
+  height: 950px;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -113,15 +113,15 @@
   .android-large2-rectangle19 {
     top: -63px;
     left: 0px;
-    width: 360px;
-    height: 454px;
+    width: 100%;
+    height: 50%;
     margin-right: 4px;
     padding-right: 0px;
   }
   .android-large2-image1 {
-    top: 64px;
-    left: 46px;
-    width: 273px;
-    height: 258px;
+    top: 7%;
+    left: 14%;
+    width: 70%;
+    height: 25%;
   }
 }
