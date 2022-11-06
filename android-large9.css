@@ -42,6 +42,7 @@
   position: absolute;
   text-decoration: none;
 }
+
 @media(max-width: 479px) {
   .android-large9-text {
     top: 255px;

@@ -13,7 +13,7 @@
   background-color: rgba(0, 0, 0, 1);
 }
 .android-large10-text {
-  top: 253px;
+  top: 20%;
   left: 35px;
   color: rgba(255, 255, 255, 1);
   width: 294px;
@@ -47,10 +47,10 @@
     justify-content: center;
   }
   .android-large10-text {
-    top: 255px;
+    top: 20%;
     left: 45px;
     color: rgb(255, 255, 255);
-    position: static;
+    position: absolute;
     font-size: 40px;
     align-self: center;
     font-family: Inter;
