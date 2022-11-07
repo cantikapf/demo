@@ -19,7 +19,7 @@
   width: 294px;
   height: auto;
   position: absolute;
-  font-size: 64px;
+  font-size: 50px;
   align-self: auto;
   font-style: Extra Bold;
   text-align: center;
@@ -44,6 +44,7 @@
 }
 @media(max-width: 479px) {
   .android-large11-text {
+    top: 15%;
     left: 0px;
     right: 0px;
     margin: auto;

@@ -68,6 +68,24 @@
   margin-bottom: 0;
   text-decoration: none;
 }
+.android-small-text{
+  top: 8%;
+  color: rgba(255, 255, 255, 1);
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
 .android-large8-navlink {
   display: contents;
 }

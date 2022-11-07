@@ -52,12 +52,13 @@
 }
 @media(max-width: 479px) {
   .android-large12-text {
-    top: 193px;
+    top: 20%;
     left: 0px;
     right: 0px;
     margin: auto;
   }
   .android-large12-text2 {
+    top: 50%;
     left: 0px;
     right: 0px;
     margin: auto;

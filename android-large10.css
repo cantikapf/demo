@@ -13,15 +13,15 @@
   background-color: rgba(0, 0, 0, 1);
 }
 .android-large10-text {
-  top: 20%;
+  top: 2%;
   left: 35px;
   color: rgba(255, 255, 255, 1);
   width: 294px;
   height: auto;
   position: absolute;
-  font-size: 40px;
+  font-size: 35px;
   align-self: auto;
-  font-style: Regular;
+  font-style: regular;
   text-align: left;
   font-family: Inter;
   font-weight: 400;
@@ -51,7 +51,7 @@
     left: 45px;
     color: rgb(255, 255, 255);
     position: absolute;
-    font-size: 40px;
+    font-size: 35px;
     align-self: center;
     font-family: Inter;
     font-weight: 400;
