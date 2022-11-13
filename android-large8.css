@@ -97,40 +97,77 @@
   position: absolute;
   text-decoration: none;
 }
-.29_2 { 
-	overflow:hidden;
+.select {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 15px;
+  width: 100%;
+}    .select select {
+      font-family: 'Arial';
+      display: inline-block;
+      width: 100%;
+      cursor: pointer;
+      padding: 10px 15px;
+      outline: 0;
+      border: 1px solid #d0aa80;
+      border-radius: 0px;
+      background: #ffffff;
+      color: #000000;
+      appearance: none;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+  }
+      .select select::-ms-expand {
+          display: none;
+      }
+      .select select:hover,
+      .select select:focus {
+          color: #000000;
+          background: #ffffff;
+      }
+      .select select:disabled {
+          opacity: 0.5;
+          pointer-events: none;
+      }
+.select_arrow {
+  position: absolute;
+  top: 16px;
+  right: 15px;
+  pointer-events: none;
+  border-style: solid;
+  border-width: 8px 5px 0px 5px;
+  border-color: #7b7b7b transparent transparent transparent;
 }
-.e29_2 { 
-	background-color:rgba(0, 0, 0, 1);
-	width:360px;
-	height:800px;
-	position:absolute;
+.select select:hover ~ .select_arrow,
+.select select:focus ~ .select_arrow {
+  border-top-color: #000000;
 }
-.e29_4 { 
-	color:rgba(255, 255, 255, 1);
-	width:311px;
-	height:58px;
-	position:absolute;
-	left:27px;
-	top:18px;
-	font-family:Inter;
-	text-align:center;
-	font-size:20px;
-	letter-spacing:0;
+.select select:disabled ~ .select_arrow {
+  border-top-color: #cccccc;
 }
-.e29_5 { 
-	background-color:rgba(255, 255, 255, 0);
-	width:48px;
-	height:48px;
-	position:absolute;
-	left:281px;
-	top:678px;
+.android-image {
+top: 236px;
+left: 14px;
+width: 331px;
+height: 329px;
+position: absolute;
+border-color: transparent;
 }
-.e29_6 { 
-	background-color:rgba(255, 255, 255, 1);
-	width:17px;
-	height:41.000038146972656px;
-	position:absolute;
-	left:15.500001907348633px;
-	top:3.4999592304229736px;
+.android-small-text2{
+  top: 5%;
+  color: rgba(255, 255, 255, 1);
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
 }
