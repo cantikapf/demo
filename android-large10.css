@@ -47,11 +47,11 @@
     justify-content: center;
   }
   .android-large10-text {
-    top: 20%;
-    left: 45px;
+    top: 10%;
+    left: 10%;
     color: rgb(255, 255, 255);
     position: absolute;
-    font-size: 35px;
+    font-size: 33px;
     align-self: center;
     font-family: Inter;
     font-weight: 400;
